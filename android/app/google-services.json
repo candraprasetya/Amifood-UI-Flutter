@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "981438649275",
+    "firebase_url": "https://amifood.firebaseio.com",
+    "project_id": "amifood",
+    "storage_bucket": "amifood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981438649275:android:4855473558d4bbb19e2a9e",
+        "android_client_info": {
+          "package_name": "com.kardusinfo.amifood_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981438649275-c9hq0v2rkqja3htc0oqjr58c5evojl6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbX61EmQ6Hk-O7qZDopk1t1Xeap4Lj-IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981438649275-c9hq0v2rkqja3htc0oqjr58c5evojl6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981438649275:android:d732a024a7f9b8009e2a9e",
+        "android_client_info": {
+          "package_name": "com.kardusinfo.amifoodui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981438649275-c9hq0v2rkqja3htc0oqjr58c5evojl6h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbX61EmQ6Hk-O7qZDopk1t1Xeap4Lj-IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981438649275-c9hq0v2rkqja3htc0oqjr58c5evojl6h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
